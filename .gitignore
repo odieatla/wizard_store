@@ -8,9 +8,6 @@ pids
 *.pid
 *.seed
 
-# IDE
-.idea
-
 # Babel ES6 compiles files
 dist
 
